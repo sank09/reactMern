@@ -1,0 +1,1 @@
+export const node_path="http://localhost:4500";
